@@ -730,8 +730,3 @@ public boolean onInterceptTouchEvent(MotionEvent ev) {
 Reflect.on(scrollView).set("mOverflingDistance", 100);
 ```
 这样就实现了弹性`ScrollView`。以上`demo`的代码在[SkyScrollViewDemo](https://github.com/Skykai521/SkyScrollViewDemo)。
-
-> 我每周会写一篇源代码分析的文章,以后也可能会有其他主题.
-> 如果你喜欢我写的文章的话,欢迎关注我的新浪微博[@达达达达sky](http://weibo.com/u/2030683111)
-> 地址: [http://weibo.com/u/2030683111](http://weibo.com/u/2030683111)
-> 每周我会第一时间在微博分享我写的文章,也会积极转发更多有用的知识给大家.
